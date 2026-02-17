@@ -17,7 +17,7 @@ The project is built in **two progressive versions**, where Version 2 enhances a
 
 ## 🔹 Dashboards
 - 📊 [Open Version 1 (.pbix)](/Data_jobs_v1/Data_Jobs_Dashboard.pbix)
-- 📊 [Open Version 2 (.pbix)](/Data_jobs_v2/Dashboard.pbix)
+- 📊 [Open Version 2 (.pbix)](/Data_jobs_v2/Data_Jobs_Dashboard%202.0.pbix)
 
 ## 🖼 Preview Images
 - 🟢 [V1 Overview](/images/Project_page1.png)
@@ -144,24 +144,8 @@ To enhance storytelling, UI, and advanced analytics:
 - Star Schema Design  
 - Business Intelligence Reporting  
 
----
 
-# 📂 Repository Structure
 
-```
-Power_BI_Dashboards/
-│
-├── Job_Market_Analysis_V1.pbix
-├── Job_Market_Analysis_V2.pbix
-│
-├── images/
-│   ├── v1_overview.png
-│   ├── v1_salary.png
-│   ├── v1_skills.png
-│   ├── v2_overview.png
-│   ├── v2_salary.png
-│   ├── v2_skills.png
-```
 
 ---
 
